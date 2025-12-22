@@ -1,11 +1,9 @@
 # <p align="center">🧊 Geppetto 🎮</p>
 
-<div align="center" textAlign="center">
-    <a href="https://www.youtube.com/watch?v=C7l-3EdgJ_M" target="_blank" rel="noopener noreferrer">
-        <img src="Geppetto.gif" alt="Geppetto demo">
-        <div>CLICK FOR THE VIDEO</div>
-    </a>
-</div>
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=C7l-3EdgJ_M">
+    <img src="Geppetto.gif">
+</p>
 
 ## 🔍 About
 
